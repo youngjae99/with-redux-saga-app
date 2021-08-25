@@ -77,6 +77,15 @@
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.2.0.tgz#f3933a44e365864f4dad5db94158106d511e8131"
   integrity sha512-sqKVVVOe5ivCaXDWivIJYVSaEgdQK9ul7a4Kity5Iw7u9+wBAPbX1RMSnLLmp7O4Vzj0WOWwMAJsTL00xwaNug==
 
+"@inlet/react-pixi@^6.6.5":
+  version "6.6.5"
+  resolved "https://registry.yarnpkg.com/@inlet/react-pixi/-/react-pixi-6.6.5.tgz#46c8986b3e7fd3ec83198260cd03ac78e3319009"
+  integrity sha512-xflQcnxHtf/wlSAaFSk4r6ePGwe4iRRkMceYRqbweTTKfJEudN5LksxDbxpuNPm9vw6DqFKnOtUXG1Qa1ZmNjg==
+
+"@inlet/react-pixi@inlet/react-pixi":
+  version "6.6.5"
+  resolved "https://codeload.github.com/inlet/react-pixi/tar.gz/69525a6bae6b3f8ad0a3ed4f7a01778bdd8b6a0e"
+
 "@napi-rs/triples@^1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@napi-rs/triples/-/triples-1.0.3.tgz#76d6d0c3f4d16013c61e45dfca5ff1e6c31ae53c"
