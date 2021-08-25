@@ -1,3 +1,5 @@
+import { Stage, Sprite } from '@inlet/react-pixi';
+
 const pad = (n) => (n < 10 ? `0${n}` : n)
 
 const format = (t) => {
@@ -23,6 +25,10 @@ function Clock({ lastUpdate, light }) {
           background-color: #999;
         }
       `}</style>
+
+      <Stage>
+        <Sprite image="./bunny.png" x={100} y={100} />
+      </Stage>
     </div>
   )
 }
